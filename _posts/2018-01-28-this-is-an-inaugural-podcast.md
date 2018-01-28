@@ -1,22 +1,25 @@
 ---
 layout: post
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Synopsis
+========
 
-Jekyll also offers powerful support for code snippets:
+Troubletown. Good thing this is only 10 minutes. Ok it's 17 minutes, 10 was the goal, but we're on the ten side of seventeen, welcome welcome. 
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Postscript
+==========
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Hi! Everything you will experience here was made just now. This podcast is live. Welcome to a fluid journey of learning. Here's how it is happening: Now we have a mic. Now we have a website. Now we have a slot (Sundays) and a studio (Michael's house). Now we have a soundcloud. Google: "how to upload a podcast to soundcloud." Genre? No explicit content so far as we know. Probably we should give a synopsis of what our intention is for the podcast. All that is in the first episode.
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Probably at this point in the first post text we give a synopsis of what's in the episode, how it went, some backstage items re: pros and cons of the learning process. The washer is on. The dog is eating an apple core. Guest-starring Michael's roommate Haley, who was making tea, and texts from her mom. 
+
+None of this matters, life is pain, what's happening? This will be so much fun. This is so much fun. 
+
+Now we should mention something about what we'll follow up on next week: figure out how to record a person from a distance. Study Markdown cheatsheet. Learn how to upload an asset and make changes to a repository. 
+
+We post Sundays, right after recording. Oh my god. Oh my god! 
+
+ 
+
+
