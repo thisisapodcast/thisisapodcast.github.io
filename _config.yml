@@ -10,7 +10,10 @@ github_username:  thisisapodcast
 
 # Build settings
 markdown: kramdown
-theme: minima
-exclude:
-  - Gemfile
-  - Gemfile.lock
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
